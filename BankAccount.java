@@ -52,7 +52,7 @@ public class BankAccount {
                         }
                         else{
                             System.out.println("\nAMOUNT HAS BEEN SUCCESSFULLY TRANSFERED TO "+otherPerson);
-                            System.out.println("YOUR BALANCE AFTER TRANSFER : "+a.withdraw(am2));
+                            System.out.println("Your balance after transfer : "+a.withdraw(am2));
                         }
                         break;
                     case 5:
