@@ -72,7 +72,7 @@ public class BankAccount {
 class UserAccount{
     private int pin=10500;
     private int balance=100000;
-    private String username="Vamsi Krishna";
+    private String username="User1234";
     boolean checkUserName(String s){
         return this.username==s;
     }
