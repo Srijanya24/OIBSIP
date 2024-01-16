@@ -59,7 +59,7 @@ public class BankAccount {
                         System.out.println("\nYour Balance : "+a.getBalance());
                         break;
                     case 6:
-                        System.out.println("\nTHE TRANSACTION HAS BEEN CANCELLED. THANK FOR BANKING WITH US!.");
+                        System.out.println("\nTHE TRANSACTION HAS BEEN CANCELLED. THANKS FOR BANKING WITH US!.");
                         System.exit(0);
                     default:
                         System.out.println("\nINVALID CHOICE. KINDLY ENTER A CORRECT CHOICE.");
